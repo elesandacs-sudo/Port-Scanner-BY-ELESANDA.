@@ -25,7 +25,9 @@
 ## ⚡ Kurulum
 
 git clone https://github.com/elesandacs-sudo/Port-Scanner-BY-ELESANDA.git
+
 cd Port-Scanner-BY-ELESANDA
+
 python scanner.py
 
 ✅ Örnek Çıktı
