@@ -30,7 +30,8 @@ cd Port-Scanner-BY-ELESANDA
 
 python scanner.py
 
-✅ Örnek Çıktı
+ 
+## ✅ Örnek Çıktı
 [*] Scanning target: 192.168.1.1
 
 [+] Port 22 OPEN
